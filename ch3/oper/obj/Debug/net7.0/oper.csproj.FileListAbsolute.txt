@@ -1,0 +1,15 @@
+/home/andrew/Desktop/Education(Развитие)/C#/ch3/oper/bin/Debug/net7.0/oper
+/home/andrew/Desktop/Education(Развитие)/C#/ch3/oper/bin/Debug/net7.0/oper.deps.json
+/home/andrew/Desktop/Education(Развитие)/C#/ch3/oper/bin/Debug/net7.0/oper.runtimeconfig.json
+/home/andrew/Desktop/Education(Развитие)/C#/ch3/oper/bin/Debug/net7.0/oper.dll
+/home/andrew/Desktop/Education(Развитие)/C#/ch3/oper/bin/Debug/net7.0/oper.pdb
+/home/andrew/Desktop/Education(Развитие)/C#/ch3/oper/obj/Debug/net7.0/oper.csproj.AssemblyReference.cache
+/home/andrew/Desktop/Education(Развитие)/C#/ch3/oper/obj/Debug/net7.0/oper.GeneratedMSBuildEditorConfig.editorconfig
+/home/andrew/Desktop/Education(Развитие)/C#/ch3/oper/obj/Debug/net7.0/oper.AssemblyInfoInputs.cache
+/home/andrew/Desktop/Education(Развитие)/C#/ch3/oper/obj/Debug/net7.0/oper.AssemblyInfo.cs
+/home/andrew/Desktop/Education(Развитие)/C#/ch3/oper/obj/Debug/net7.0/oper.csproj.CoreCompileInputs.cache
+/home/andrew/Desktop/Education(Развитие)/C#/ch3/oper/obj/Debug/net7.0/oper.dll
+/home/andrew/Desktop/Education(Развитие)/C#/ch3/oper/obj/Debug/net7.0/refint/oper.dll
+/home/andrew/Desktop/Education(Развитие)/C#/ch3/oper/obj/Debug/net7.0/oper.pdb
+/home/andrew/Desktop/Education(Развитие)/C#/ch3/oper/obj/Debug/net7.0/oper.genruntimeconfig.cache
+/home/andrew/Desktop/Education(Развитие)/C#/ch3/oper/obj/Debug/net7.0/ref/oper.dll
