@@ -1,0 +1,15 @@
+/home/andrew/Desktop/Education(Развитие)/C#/ch3/IterationStatements/bin/Debug/net7.0/IterationStatements
+/home/andrew/Desktop/Education(Развитие)/C#/ch3/IterationStatements/bin/Debug/net7.0/IterationStatements.deps.json
+/home/andrew/Desktop/Education(Развитие)/C#/ch3/IterationStatements/bin/Debug/net7.0/IterationStatements.runtimeconfig.json
+/home/andrew/Desktop/Education(Развитие)/C#/ch3/IterationStatements/bin/Debug/net7.0/IterationStatements.dll
+/home/andrew/Desktop/Education(Развитие)/C#/ch3/IterationStatements/bin/Debug/net7.0/IterationStatements.pdb
+/home/andrew/Desktop/Education(Развитие)/C#/ch3/IterationStatements/obj/Debug/net7.0/IterationStatements.csproj.AssemblyReference.cache
+/home/andrew/Desktop/Education(Развитие)/C#/ch3/IterationStatements/obj/Debug/net7.0/IterationStatements.GeneratedMSBuildEditorConfig.editorconfig
+/home/andrew/Desktop/Education(Развитие)/C#/ch3/IterationStatements/obj/Debug/net7.0/IterationStatements.AssemblyInfoInputs.cache
+/home/andrew/Desktop/Education(Развитие)/C#/ch3/IterationStatements/obj/Debug/net7.0/IterationStatements.AssemblyInfo.cs
+/home/andrew/Desktop/Education(Развитие)/C#/ch3/IterationStatements/obj/Debug/net7.0/IterationStatements.csproj.CoreCompileInputs.cache
+/home/andrew/Desktop/Education(Развитие)/C#/ch3/IterationStatements/obj/Debug/net7.0/IterationStatements.dll
+/home/andrew/Desktop/Education(Развитие)/C#/ch3/IterationStatements/obj/Debug/net7.0/refint/IterationStatements.dll
+/home/andrew/Desktop/Education(Развитие)/C#/ch3/IterationStatements/obj/Debug/net7.0/IterationStatements.pdb
+/home/andrew/Desktop/Education(Развитие)/C#/ch3/IterationStatements/obj/Debug/net7.0/IterationStatements.genruntimeconfig.cache
+/home/andrew/Desktop/Education(Развитие)/C#/ch3/IterationStatements/obj/Debug/net7.0/ref/IterationStatements.dll
