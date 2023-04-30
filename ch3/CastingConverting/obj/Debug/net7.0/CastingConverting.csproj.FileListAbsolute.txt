@@ -1,0 +1,15 @@
+/home/andrew/Desktop/Education(Развитие)/C#/ch3/CastingConverting/bin/Debug/net7.0/CastingConverting
+/home/andrew/Desktop/Education(Развитие)/C#/ch3/CastingConverting/bin/Debug/net7.0/CastingConverting.deps.json
+/home/andrew/Desktop/Education(Развитие)/C#/ch3/CastingConverting/bin/Debug/net7.0/CastingConverting.runtimeconfig.json
+/home/andrew/Desktop/Education(Развитие)/C#/ch3/CastingConverting/bin/Debug/net7.0/CastingConverting.dll
+/home/andrew/Desktop/Education(Развитие)/C#/ch3/CastingConverting/bin/Debug/net7.0/CastingConverting.pdb
+/home/andrew/Desktop/Education(Развитие)/C#/ch3/CastingConverting/obj/Debug/net7.0/CastingConverting.csproj.AssemblyReference.cache
+/home/andrew/Desktop/Education(Развитие)/C#/ch3/CastingConverting/obj/Debug/net7.0/CastingConverting.GeneratedMSBuildEditorConfig.editorconfig
+/home/andrew/Desktop/Education(Развитие)/C#/ch3/CastingConverting/obj/Debug/net7.0/CastingConverting.AssemblyInfoInputs.cache
+/home/andrew/Desktop/Education(Развитие)/C#/ch3/CastingConverting/obj/Debug/net7.0/CastingConverting.AssemblyInfo.cs
+/home/andrew/Desktop/Education(Развитие)/C#/ch3/CastingConverting/obj/Debug/net7.0/CastingConverting.csproj.CoreCompileInputs.cache
+/home/andrew/Desktop/Education(Развитие)/C#/ch3/CastingConverting/obj/Debug/net7.0/CastingConverting.dll
+/home/andrew/Desktop/Education(Развитие)/C#/ch3/CastingConverting/obj/Debug/net7.0/refint/CastingConverting.dll
+/home/andrew/Desktop/Education(Развитие)/C#/ch3/CastingConverting/obj/Debug/net7.0/CastingConverting.pdb
+/home/andrew/Desktop/Education(Развитие)/C#/ch3/CastingConverting/obj/Debug/net7.0/CastingConverting.genruntimeconfig.cache
+/home/andrew/Desktop/Education(Развитие)/C#/ch3/CastingConverting/obj/Debug/net7.0/ref/CastingConverting.dll
