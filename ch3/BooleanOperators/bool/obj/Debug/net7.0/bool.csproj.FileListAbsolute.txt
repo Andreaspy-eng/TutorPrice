@@ -1,0 +1,15 @@
+/home/andrew/Desktop/Education(Развитие)/C#/ch3/BooleanOperators/bool/bin/Debug/net7.0/bool
+/home/andrew/Desktop/Education(Развитие)/C#/ch3/BooleanOperators/bool/bin/Debug/net7.0/bool.deps.json
+/home/andrew/Desktop/Education(Развитие)/C#/ch3/BooleanOperators/bool/bin/Debug/net7.0/bool.runtimeconfig.json
+/home/andrew/Desktop/Education(Развитие)/C#/ch3/BooleanOperators/bool/bin/Debug/net7.0/bool.dll
+/home/andrew/Desktop/Education(Развитие)/C#/ch3/BooleanOperators/bool/bin/Debug/net7.0/bool.pdb
+/home/andrew/Desktop/Education(Развитие)/C#/ch3/BooleanOperators/bool/obj/Debug/net7.0/bool.csproj.AssemblyReference.cache
+/home/andrew/Desktop/Education(Развитие)/C#/ch3/BooleanOperators/bool/obj/Debug/net7.0/bool.GeneratedMSBuildEditorConfig.editorconfig
+/home/andrew/Desktop/Education(Развитие)/C#/ch3/BooleanOperators/bool/obj/Debug/net7.0/bool.AssemblyInfoInputs.cache
+/home/andrew/Desktop/Education(Развитие)/C#/ch3/BooleanOperators/bool/obj/Debug/net7.0/bool.AssemblyInfo.cs
+/home/andrew/Desktop/Education(Развитие)/C#/ch3/BooleanOperators/bool/obj/Debug/net7.0/bool.csproj.CoreCompileInputs.cache
+/home/andrew/Desktop/Education(Развитие)/C#/ch3/BooleanOperators/bool/obj/Debug/net7.0/bool.dll
+/home/andrew/Desktop/Education(Развитие)/C#/ch3/BooleanOperators/bool/obj/Debug/net7.0/refint/bool.dll
+/home/andrew/Desktop/Education(Развитие)/C#/ch3/BooleanOperators/bool/obj/Debug/net7.0/bool.pdb
+/home/andrew/Desktop/Education(Развитие)/C#/ch3/BooleanOperators/bool/obj/Debug/net7.0/bool.genruntimeconfig.cache
+/home/andrew/Desktop/Education(Развитие)/C#/ch3/BooleanOperators/bool/obj/Debug/net7.0/ref/bool.dll

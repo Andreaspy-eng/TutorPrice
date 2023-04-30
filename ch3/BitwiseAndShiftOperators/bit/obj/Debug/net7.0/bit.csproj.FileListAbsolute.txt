@@ -1,0 +1,15 @@
+/home/andrew/Desktop/Education(Развитие)/C#/ch3/BitwiseAndShiftOperators/bit/bin/Debug/net7.0/bit
+/home/andrew/Desktop/Education(Развитие)/C#/ch3/BitwiseAndShiftOperators/bit/bin/Debug/net7.0/bit.deps.json
+/home/andrew/Desktop/Education(Развитие)/C#/ch3/BitwiseAndShiftOperators/bit/bin/Debug/net7.0/bit.runtimeconfig.json
+/home/andrew/Desktop/Education(Развитие)/C#/ch3/BitwiseAndShiftOperators/bit/bin/Debug/net7.0/bit.dll
+/home/andrew/Desktop/Education(Развитие)/C#/ch3/BitwiseAndShiftOperators/bit/bin/Debug/net7.0/bit.pdb
+/home/andrew/Desktop/Education(Развитие)/C#/ch3/BitwiseAndShiftOperators/bit/obj/Debug/net7.0/bit.csproj.AssemblyReference.cache
+/home/andrew/Desktop/Education(Развитие)/C#/ch3/BitwiseAndShiftOperators/bit/obj/Debug/net7.0/bit.GeneratedMSBuildEditorConfig.editorconfig
+/home/andrew/Desktop/Education(Развитие)/C#/ch3/BitwiseAndShiftOperators/bit/obj/Debug/net7.0/bit.AssemblyInfoInputs.cache
+/home/andrew/Desktop/Education(Развитие)/C#/ch3/BitwiseAndShiftOperators/bit/obj/Debug/net7.0/bit.AssemblyInfo.cs
+/home/andrew/Desktop/Education(Развитие)/C#/ch3/BitwiseAndShiftOperators/bit/obj/Debug/net7.0/bit.csproj.CoreCompileInputs.cache
+/home/andrew/Desktop/Education(Развитие)/C#/ch3/BitwiseAndShiftOperators/bit/obj/Debug/net7.0/bit.dll
+/home/andrew/Desktop/Education(Развитие)/C#/ch3/BitwiseAndShiftOperators/bit/obj/Debug/net7.0/refint/bit.dll
+/home/andrew/Desktop/Education(Развитие)/C#/ch3/BitwiseAndShiftOperators/bit/obj/Debug/net7.0/bit.pdb
+/home/andrew/Desktop/Education(Развитие)/C#/ch3/BitwiseAndShiftOperators/bit/obj/Debug/net7.0/bit.genruntimeconfig.cache
+/home/andrew/Desktop/Education(Развитие)/C#/ch3/BitwiseAndShiftOperators/bit/obj/Debug/net7.0/ref/bit.dll
