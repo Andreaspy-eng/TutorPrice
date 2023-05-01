@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/andrew/Desktop/Education(Развитие)/C#/ch3/ch3.csproj": {}
+    "/home/andrew/Desktop/Education(Развитие)/C#/ch3/ex3/ex3.csproj": {}
   },
   "projects": {
-    "/home/andrew/Desktop/Education(Развитие)/C#/ch3/ch3.csproj": {
+    "/home/andrew/Desktop/Education(Развитие)/C#/ch3/ex3/ex3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/andrew/Desktop/Education(Развитие)/C#/ch3/ch3.csproj",
-        "projectName": "ch3",
-        "projectPath": "/home/andrew/Desktop/Education(Развитие)/C#/ch3/ch3.csproj",
+        "projectUniqueName": "/home/andrew/Desktop/Education(Развитие)/C#/ch3/ex3/ex3.csproj",
+        "projectName": "ex3",
+        "projectPath": "/home/andrew/Desktop/Education(Развитие)/C#/ch3/ex3/ex3.csproj",
         "packagesPath": "/home/andrew/.nuget/packages/",
-        "outputPath": "/home/andrew/Desktop/Education(Развитие)/C#/ch3/obj/",
+        "outputPath": "/home/andrew/Desktop/Education(Развитие)/C#/ch3/ex3/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/andrew/.nuget/NuGet/NuGet.Config"
