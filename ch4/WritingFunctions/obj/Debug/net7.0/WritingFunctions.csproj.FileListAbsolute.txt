@@ -1,0 +1,15 @@
+/home/andrew/Desktop/Education(Развитие)/C#/ch4/WritingFunctions/obj/Debug/net7.0/WritingFunctions.csproj.AssemblyReference.cache
+/home/andrew/Desktop/Education(Развитие)/C#/ch4/WritingFunctions/obj/Debug/net7.0/WritingFunctions.GeneratedMSBuildEditorConfig.editorconfig
+/home/andrew/Desktop/Education(Развитие)/C#/ch4/WritingFunctions/obj/Debug/net7.0/WritingFunctions.AssemblyInfoInputs.cache
+/home/andrew/Desktop/Education(Развитие)/C#/ch4/WritingFunctions/obj/Debug/net7.0/WritingFunctions.AssemblyInfo.cs
+/home/andrew/Desktop/Education(Развитие)/C#/ch4/WritingFunctions/obj/Debug/net7.0/WritingFunctions.csproj.CoreCompileInputs.cache
+/home/andrew/Desktop/Education(Развитие)/C#/ch4/WritingFunctions/bin/Debug/net7.0/WritingFunctions
+/home/andrew/Desktop/Education(Развитие)/C#/ch4/WritingFunctions/bin/Debug/net7.0/WritingFunctions.deps.json
+/home/andrew/Desktop/Education(Развитие)/C#/ch4/WritingFunctions/bin/Debug/net7.0/WritingFunctions.runtimeconfig.json
+/home/andrew/Desktop/Education(Развитие)/C#/ch4/WritingFunctions/bin/Debug/net7.0/WritingFunctions.dll
+/home/andrew/Desktop/Education(Развитие)/C#/ch4/WritingFunctions/bin/Debug/net7.0/WritingFunctions.pdb
+/home/andrew/Desktop/Education(Развитие)/C#/ch4/WritingFunctions/obj/Debug/net7.0/WritingFunctions.dll
+/home/andrew/Desktop/Education(Развитие)/C#/ch4/WritingFunctions/obj/Debug/net7.0/refint/WritingFunctions.dll
+/home/andrew/Desktop/Education(Развитие)/C#/ch4/WritingFunctions/obj/Debug/net7.0/WritingFunctions.pdb
+/home/andrew/Desktop/Education(Развитие)/C#/ch4/WritingFunctions/obj/Debug/net7.0/WritingFunctions.genruntimeconfig.cache
+/home/andrew/Desktop/Education(Развитие)/C#/ch4/WritingFunctions/obj/Debug/net7.0/ref/WritingFunctions.dll
